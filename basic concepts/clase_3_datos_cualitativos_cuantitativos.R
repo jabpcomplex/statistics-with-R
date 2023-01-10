@@ -5,7 +5,10 @@
 
 rm(list=ls())
 
-setwd("/home/jabp/Programacion/R-scripts/Estadística/cursoC5/")
+#linux
+setwd("/home/jabp/ruta/trabajo")
+#windows
+#setwd("C:/home/jabp/ruta/trabajo")
 
 View(iris)
 plot(iris)
