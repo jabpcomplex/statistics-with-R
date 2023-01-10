@@ -3,10 +3,9 @@
 
 ## Objetivo General:
 
-### Indentificar las herramientas que ofrece el programa R para realizar análisis estadístico y gráficos incljuyendo aquellos fenómenos comple que
-### requieren un enfoque cuantitativo para su anáisis.
+ Indentificar las herramientas que ofrece el programa R para realizar análisis estadístico y gráficos incljuyendo aquellos fenómenos comple que requieren un enfoque cuantitativo para su anáisis.
 
-#INTRODUCCIÓN
+# INTRODUCCIÓN
 
 R es un entorno y lenguaje de programación con un enfoque al análisis estadístico.
 
