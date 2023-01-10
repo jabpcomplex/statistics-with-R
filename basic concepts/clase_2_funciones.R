@@ -1,10 +1,15 @@
-#Programción en R  y su aplicación estadistica
+#Programción en R  y su aplicación estadistica creado en R-4.4.4
 
-#Primeras Funciones
+#Primeras Funciones  por jabpcomplex
 #Estructura de una funcion
 
+rm(list=ls())
 
-setwd("/home/jabp/Programacion/R-scripts/Estadística/cursoC5/")
+
+#linux
+setwd("/home/jabp/ruta/trabajo")
+#windows
+#setwd("C:/home/jabp/ruta/trabajo")
 
 #ejemplo1 
 for (x in 1:5) {
