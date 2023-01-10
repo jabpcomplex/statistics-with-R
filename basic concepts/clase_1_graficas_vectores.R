@@ -1,12 +1,14 @@
-#Programción en R  y su aplicación estadistica
-
-#Creación de vectores
+#Programción en R  y su aplicación estadistica creado en R-4.4.4
+#Creación de vectores por jabpcomplex
 
 rm(list=ls())
 
 
+#linux
+setwd("/home/jabp/ruta/trabajo")
+#windows
+#setwd("C:/home/jabp/ruta/trabajo")
 
-setwd("/home/jabp/Programacion/R-scripts/Estadística/cursoC5/")
 
 set.seed(123)
 
