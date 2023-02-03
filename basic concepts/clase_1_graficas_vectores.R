@@ -10,9 +10,17 @@ setwd("/home/jabp/ruta/trabajo")
 #setwd("C:/home/jabp/ruta/trabajo")
 
 
+
+#Cuando generas “números aleatorios” en R, en realidad estás generando números pseudoaleatorios.
+#Estos números se generan con un algoritmo que requiere una semilla para inicializarse. 
+# Ser pseudoaleatorio en lugar de puramente aleatorio significa que, si conoces la semilla y el generador, puedes predecir (y reproducir) la secuencia. 
+
+#Semilla
 set.seed(123)
 
+#El Generador es la funcion rnorm(argumentos)
 gaus <- rnorm(n = 10000,mean=0,sd=1)
+#Si ejecutas el código anterior, obtendrás el mismo resultado que en este tutorial.
 
 hist(gaus,col = 'orange',breaks = 40, ylab="Frecuencia",xlab="x",main="Histograma")
 
