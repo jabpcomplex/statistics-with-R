@@ -14,3 +14,12 @@ R nació como una reimplementación de software libre del lenguaje S, adicionado
 R es parte del sistema GNU y se distribuye bajo la licencia GNU GPL. Está disponible para los sistemas operativos Windows, Macintosh, Unix y GNU/Linux. 
 
 Fuente: https://es.wikipedia.org/wiki/R_(lenguaje_de_programación)
+
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://raw.githubusercontent.com/jabpcomplex/statistics-with-R/main/Entorno_R.png" alt="JuveYell" width="300px">
+</p>
+</div>
+
+![imagen|100](https://raw.githubusercontent.com/jabpcomplex/statistics-with-R/main/Entorno_R.png)
