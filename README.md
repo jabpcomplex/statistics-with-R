@@ -15,11 +15,21 @@ R es parte del sistema GNU y se distribuye bajo la licencia GNU GPL. Está dispo
 
 Fuente: https://es.wikipedia.org/wiki/R_(lenguaje_de_programación)
 
-
+<!---
 <div>
 <p style = 'text-align:center;'>
 <img src="https://raw.githubusercontent.com/jabpcomplex/statistics-with-R/main/Entorno_R.png" alt="JuveYell" width="300px">
 </p>
 </div>
+-->
+
+La interfaz gáfica de R-Studio es la siguiente:
+
+1. El cuadrante I es el ambiente y es la parte donde se lozalizan todas las variables y funciones declaras, vectores, dataframe's, etc.
+2. El cuadrante II es la parte que concentra todos los scripts que escribirás, es decir, el código fuente de tus programas.
+3. El cuadrantre III es la consola, ahí escribes los comando que quieres que se realicen pero que no se guarden en el script. También sirve para manipular la consola de tu sistema operativo.
+4. El cuadrante IV se conoce como salida grafica y es el lugar donde encuentras las imagenes creadas a partir de tus scripts. También es el lugar donde puedes encotrar las librerias que tiene instaladas. 
+
+
 
 ![imagen|100](https://raw.githubusercontent.com/jabpcomplex/statistics-with-R/main/Entorno_R.png)
