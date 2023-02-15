@@ -27,15 +27,12 @@ La frecuencia relativa es una medida estadística que se calcula como el cocient
 
 En r se calcula:
 
-
-###---- crear datos
 datos <- c (0, 0, 2, 3, 4, 4, 5, 6, 7, 12, 12, 14)
-# Frecuencia relativa
 hist(datos, freq = T, main = "Histograma de frecuencias", ylab = "Frecuencia")
 
 
   
-# Histogtrama de Densidad
+## Histogtrama de Densidad
 
 ¿Densidad, cómo es eso? Cuando algo es más denso es porque existe en una concentración mayor que una referencia. Por lo tanto la función hist() con el argumento prob = TURE grafica un histograma de densidad y nos dice donde se concentran más nuestros valores.
 
